@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h4{
+    font-size: 30px;
+}
+.container{
+    padding: 0 8.5%;
+}
+/* ------------------------------- Header Start  */
+#header-area{
+    background: #3498db;
+}
+.header-content{
+    text-align: center;
+    padding: 40px;
+}
+
+/* -------------------------- Header End  */
+/* ------------------------------ Banner Start  */
+#banner-area{
+    background: orange;
+    margin-top: 15px;
+    padding: 130px 0;
+}
+.banner-content{
+    text-align: center;
+}
+/* --------------------- Banner End  */
+/* ------------------------------- Navigation Start  */
+#navigation-area{
+    margin-top: 15px;
+}
+.navigation-content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.navigation-item{
+    width: 23.5%;
+    text-align: center;
+    padding: 20px;
+    background: orange;
+}
+.another{
+    padding: 37px;
+}
+
+/* ----------------------- Navigation End  */
+/* --------------------------------------------- About Start  */
+#about-area{
+    margin-top: 15px;
+}
+.about-content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.about-left-content{
+    width: 60%;
+    padding: 200px;
+    background: orange;
+    text-align: center;
+}
+.about-right-content{
+    width: 38%;
+    text-align: center;
+}
+.right-box-1{
+    background: orange;
+    padding: 70px;
+    margin-bottom: 15px;
+}
+.right-box-2{
+    background: orange;
+    padding: 100px;
+}
+/* --------------------------- About End  */
+/* --------------------------------------- Footer Start  */
+#footer-area{
+    background: #3498db;
+    padding: 40px 0;
+    margin-top: 15px;
+}
+.footer-content{
+    text-align: center;
+}
+/* ---------------------- Footer End  */
